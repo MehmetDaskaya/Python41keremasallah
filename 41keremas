@@ -1,0 +1,4 @@
+masallah = 0
+while masallah < 41:
+    print('Maşallah!')
+    masallah = masallah + 1
